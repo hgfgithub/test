@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<project name="AntTestDemo" default="run" basedir=".">
+<project name="test" default="run" basedir=".">
 <property name="src" value="src"/>
 <property name="dest" value="classes"/>
 <property name="helloant_jar" value="helloant.jar"/>
